@@ -10,7 +10,7 @@ To start the application use
 
 `mvn clean install`
 
-`mvn exec:java -Dexec.mainClass=StudentSort -Dexec.args="input.txt" "BUBBLE"`
+`mvn exec:java -Dexec.mainClass=StudentSort -Dexec.args="input.txt BUBBLE"`
 
 For the second argument insert one of BUBBLE / HEAP / MERGE
 
